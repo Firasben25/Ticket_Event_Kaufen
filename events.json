@@ -1,0 +1,12 @@
+{
+    "Event1": {
+        "location": "Berlin",
+        "name": "Konzert",
+        "quantity": 100
+    },
+    "Event2": {
+        "location": "Hamburg",
+        "name": "Theater",
+        "quantity": 50
+    }
+}
